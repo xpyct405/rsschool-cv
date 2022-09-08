@@ -1,4 +1,6 @@
 * **Rustam Kuzyaev**
+
+
 *** *@xpyct405*
 
 
@@ -17,6 +19,12 @@ First CV Task for rolling scopes school
 **********
 
 *** Contacts:
+
+
 *GitHub* - @xpyct405;
+
+
 *Discord* - @xpyct405;
+
+
 *Telegram* - @xpyct405;
