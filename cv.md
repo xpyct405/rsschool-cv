@@ -1,5 +1,4 @@
 # **Rustam Kuzyaev**
-![My photo](https://sun9-25.userapi.com/impf/c824204/v824204098/c8d8e/GO43ZqnsCGo.jpg?size=811x1080&quality=96&sign=42c9dc37742b2616d3a33e75431b7b9a&type=album)
 
 
 <img src="https://sun9-25.userapi.com/impf/c824204/v824204098/c8d8e/GO43ZqnsCGo.jpg?size=811x1080&quality=96&sign=42c9dc37742b2616d3a33e75431b7b9a&type=album"  width="300">
