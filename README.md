@@ -1,2 +1,2 @@
 # rsschool-cv
-CV task
+https://xpyct405.github.io/rsschool-cv/cv
