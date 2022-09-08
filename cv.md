@@ -1,7 +1,7 @@
-* **Rustam Kuzyaev**
+# **Rustam Kuzyaev**
 
 
-*** *@xpyct405*
+### *@xpyct405*
 
 
 *init in 1994*
@@ -9,7 +9,7 @@
 First CV Task for rolling scopes school
 **********
 
-*** Knowledge
+### Knowledge
 
 1. *HTML*
 2. *CSS (SASS/SCSS)*
@@ -18,7 +18,7 @@ First CV Task for rolling scopes school
 5. *JavaScript basic*
 **********
 
-*** Contacts:
+### Contacts:
 
 
 *GitHub* - @xpyct405;
