@@ -1,2 +1,2 @@
 # rsschool-cv
-https://xpyct405.github.io/rsschool-cv/cv
+https://xpyct405.github.io/rsschool-cv/
